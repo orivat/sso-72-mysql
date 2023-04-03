@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 372202863c01f04b6ec46352f974a175776c392c Olivier Rivat <orivat@orivat.remote.csb> 1680504759 +0200	clone: from https://github.com/travisrogers05/rhsso-with-ext-postgresql-db-cli.git
+372202863c01f04b6ec46352f974a175776c392c 8c5e3630c2d6043a527ccf8e012f952d65c56569 Olivier Rivat <orivat@orivat.remote.csb> 1680506530 +0200	commit: First commit
+8c5e3630c2d6043a527ccf8e012f952d65c56569 0000000000000000000000000000000000000000 Olivier Rivat <orivat@orivat.remote.csb> 1680506756 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 8c5e3630c2d6043a527ccf8e012f952d65c56569 Olivier Rivat <orivat@orivat.remote.csb> 1680506756 +0200	Branch: renamed refs/heads/master to refs/heads/main
