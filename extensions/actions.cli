@@ -2,6 +2,7 @@
 embed-server --std-out=echo  --server-config=standalone-openshift.xml
 batch
 /subsystem=datasources/data-source=KeycloakDS:remove()
-/subsystem=datasources/data-source=KeycloakDS:add(jndi-name=java:jboss/datasources/KeycloakDS,enabled=true,use-java-context=true,connection-url="jdbc\:postgresql\://postgresql-02325498-postgres.apps.spent9.lab.rdu2.cee.redhat.com\:80/rhsso",driver-name=postgresql,user-name=joe,password=user)
+/subsystem=datasources/data-source=KeycloakDS:add(jndi-name=java:jboss/datasources/KeycloakDS,enabled=true,use-java-context=true,
+connection-url="jdbc\:mysql\://mysql-57.hosts.mwqe.eng.bos.redhat.com\:3306/dballo15",driver-name=mysql,user-name=dballo15,password=dballo15)
 run-batch
 quit
